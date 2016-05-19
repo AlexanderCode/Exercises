@@ -1,1 +1,1 @@
-Created as a pratice game that I expanded for the family.  Jut good practice while I learn to code.
+These are built to practice snipits of code.
